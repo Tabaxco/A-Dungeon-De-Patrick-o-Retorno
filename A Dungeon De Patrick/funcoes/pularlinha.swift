@@ -1,0 +1,3 @@
+func pula() {
+    print("")
+}
